@@ -6,7 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22ffce05-e58d-417f-b008-48c926c20d41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Degree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -42,7 +45,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/projects/java/tic-tac&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TicTac">
+  <component name="RunManager" selected="Application.Task04">
     <configuration name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task01" />
       <module name="Paradigms" />
@@ -52,6 +55,13 @@
     </configuration>
     <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task02" />
+      <module name="Paradigms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task04" />
       <module name="Paradigms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task04" />
         <item itemvalue="Application.TicTac" />
         <item itemvalue="Application.Task02" />
         <item itemvalue="Application.Task01" />
