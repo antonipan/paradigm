@@ -1,0 +1,7 @@
+% rules
+len([], 0).
+len([_|T], len) :-
+    len(T, len1), len is len+1.
+
+% query
+len([3, 5, 8, 2, 4, 6], len)

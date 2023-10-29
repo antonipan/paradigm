@@ -5,12 +5,7 @@
     <option name="CUSTOM_SCOPE_NAME" value="All Places" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22ffce05-e58d-417f-b008-48c926c20d41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Degree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="22ffce05-e58d-417f-b008-48c926c20d41" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
